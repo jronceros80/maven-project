@@ -16,6 +16,6 @@ public class Greeter {
    * Metodo greet.
    */
   public String greet(final String someone) {
-    return String.format("Buenos dias, %s!", someone);
+    return String.format("xxxxxxxxxxxxxxxxxxxx, %s!", someone);
   }
 }
